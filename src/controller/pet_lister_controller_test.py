@@ -1,4 +1,4 @@
-from src.controller.person_lister_controller import PetListerController
+from src.controller.pet_lister_controller import PetListerController
 from src.models.sqlite.entities.pets import PetsTable
 
 class MockPetsRepository:
